@@ -64,7 +64,12 @@ INSERT INTO tbl_Client1922 (id_Client, str_Name_Family, str_Name_First, str_Gend
 INSERT INTO tbl_Client1922 (id_Client, str_Name_Family, str_Name_First, str_Gender) VALUES (987654321, 'Mann', 'Abby', 'F');
 INSERT INTO tbl_Client1922 (id_Client, str_Name_Family, str_Name_First, str_Gender) VALUES (123454321, 'Well', 'Max', 'M');
 INSERT INTO tbl_Client1922 (id_Client, str_Name_Family, str_Name_First, str_Gender) VALUES (987656789, 'Well', 'Sarah', 'F');
+INSERT INTO tbl_Client1922 (id_Client, str_Name_Family, str_Name_First, str_Gender) VALUES (543212345, 'Bros', 'Mario', 'M');
+INSERT INTO tbl_Client1922 (id_Client, str_Name_Family, str_Name_First, str_Gender) VALUES (111111111, 'Pip', 'Dawn', 'F');
+INSERT INTO tbl_Client1922 (id_Client, str_Name_Family, str_Name_First, str_Gender) VALUES (222222222, 'Torch', 'May', 'F');
+INSERT INTO tbl_Client1922 (id_Client, str_Name_Family, str_Name_First, str_Gender) VALUES (567898765, 'Tales', 'May', 'F');
 
 INSERT INTO tbl_Tour1922 (str_Tour_Name, str_Tour_Description) VALUES ('Alpha', 'Tour of resturants around Melbourne');
 INSERT INTO tbl_Tour1922 (str_Tour_Name, str_Tour_Description) VALUES ('Gamma', 'Tour of bakeries around Ballerat');
 INSERT INTO tbl_Tour1922 (str_Tour_Name, str_Tour_Description) VALUES ('Zeta', 'Tour of markets around Gellong');
+
